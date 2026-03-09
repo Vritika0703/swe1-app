@@ -13,13 +13,3 @@ script:
   - coverage run --source=mysite,polls manage.py test
 after_success:
   - coveralls
-deploy:
-  provider: elasticbeanstalk
-  access_key_id: $AWS_ACCESS_KEY_ID
-  secret_access_key: $AWS_SECRET_ACCESS_KEY
-  region: "us-west-2"
-  app: "swe1-app"
-  env: "Swe1-app-env"
-  bucket_name: "elasticbeanstalk-us-west-2-637423547536"
-  on:
-    branch: main
