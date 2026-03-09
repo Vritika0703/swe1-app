@@ -3,7 +3,7 @@
 [![Build Status](https://app.travis-ci.com/hvp2015/swe1-app.svg?branch=main)](https://app.travis-ci.com/hvp2015/swe1-app)
 [![Coverage Status](https://coveralls.io/repos/github/hvp2015/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/hvp2015/swe1-app?branch=main)
 
-## About
+## About 
 A Django web application.
 
 ## Setup
