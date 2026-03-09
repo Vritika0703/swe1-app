@@ -7,7 +7,6 @@ install:
   - pip install black flake8 coverage coveralls
 before_script:
   - python manage.py migrate
-  - python manage.py collectstatic --noinput
 script:
   - black .
   - flake8 .
