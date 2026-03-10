@@ -10,3 +10,4 @@ __pycache__/
 staticfiles/venv/
 swe1-app.zip
 *.zip
+venv/
