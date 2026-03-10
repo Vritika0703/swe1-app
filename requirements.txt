@@ -9,3 +9,5 @@ flake8
 coverage
 coveralls
 whitenoise==6.11.0
+coverage==7.10.7
+coveralls==4.0.1
