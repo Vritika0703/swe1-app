@@ -1,7 +1,7 @@
 # Your Django Project Name
 
 [![Build Status](https://app.travis-ci.com/Vritika0703/swe1-app.svg?branch=main)](https://app.travis-ci.com/Vritika0703/swe1-app)
-[![Coverage Status](https://img.shields.io/badge/coverage-79.68%25-brightgreen)](https://coveralls.io/builds/78155231)
+[![Coverage Status](https://img.shields.io/badge/coverage-79.6%25-brightgreen)](https://coveralls.io/builds/78155231)
 
 ## About 
 A Django web application.
